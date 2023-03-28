@@ -1,7 +1,7 @@
 ---
 title: "Bertha: Video captioning evaluation via transfer-learned human assessment"
 collection: publications
-permalink: /publication/camera
+permalink: /publication/bertha
 excerpt: 'Evaluating video captioning systems is a challenging task as there are multiple factors to consider; for instance: the fluency of the caption, multiple actions happening in a single scene, and the human bias of what is considered important. Most metrics try to measure how similar the system generated captions are to a single or a set of human-annotated captions. This paper presents a new method based on a deep learning model to evaluate these systems. The model is based on BERT, which is a language model that has been shown to work well in multiple NLP tasks. The aim is for the model to learn to perform an evaluation similar to that of a human. To do so, we use a dataset that contains human evaluations of system generated captions. The dataset consists of the human judgments of the captions produces by the system participating in various years of the TRECVid video to text task. BERTHA obtain favourable results, outperforming the commonly used metrics in some setups.'
 date: 	2022-06-22
 venue: 'Proceedings of the Thirteenth Language Resources and Evaluation Conference'
